@@ -45,5 +45,6 @@ This is the resource map of the VPC deployed with CFN.
 
 ![vpc resource map](assets/vpc-resource-map.png)
 
+![vpc creation in terminal](assets/cfn-stack-creation-successful.png)
 
 ![vpc creation in terminal](assets/vpc-creation-in-terminal.png)
