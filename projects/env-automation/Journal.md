@@ -27,12 +27,12 @@ I changed the shebang to work for all OS platforms.
 ## Visualization in Infrastructure Composer
 
 
-I thought maybe we could visualixe our VPC via Infrastructure Composer but its not the best representation.
+I thought maybe we could visualize our VPC via Infrastructure Composer but its not the best representation.
 
 ![infra composer](assets/aws_infra_composer.png)
 
 
-## Intalling AWS CLI
+## Installing AWS CLI
 
 In order to deploy via the AWS CLI, we need to install it.
 
